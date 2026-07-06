@@ -65,7 +65,6 @@ The Automated Driver Drowsiness Detection and Risk Mitigation System is an AI an
 Driver_Drowsiness_Detection.ino
 Driver_Drowsiness_Detection_Report.pdf
 README.md
-requirements.txt
 images/
 ```
 
