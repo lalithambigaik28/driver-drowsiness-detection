@@ -70,15 +70,31 @@ images/
 
 ---
 
-## Project Outputs
+## 📷 Project Outputs
 
-- Hardware Prototype
-- Driver Alert State (Eyes Open)
-- Driver Drowsiness Detection (Eyes Closed)
-- Arduino IoT Cloud Dashboard
-- Live GPS Location Tracking
-- SMS Alert Notification
-- Email Alert Notification
+### Hardware Setup
+
+![Hardware Setup](Images/Outputs/01_Hardware_Setup.png)
+
+### Driver Alert State (Eyes Open)
+
+![Driver Alert State](Images/Outputs/02_Driver_Alert_State.png)
+
+### Driver Drowsiness Detection (Eyes Closed)
+
+![Driver Drowsiness Detection](Images/Outputs/03_Driver_Drowsy_State.png)
+
+### Arduino IoT Cloud Mobile Dashboard
+
+![Arduino IoT Cloud Mobile Dashboard](Images/Outputs/04_Arduino_Mobile_App_Dashboard.png)
+
+### Alert Notifications via Email and SMS
+
+![Alert Notifications via Email and SMS](Images/Outputs/05_Alert_Notifications_via_Email_and_SMS.png)
+
+### Live GPS Location Tracking
+
+![Live GPS Location Tracking](Images/Outputs/06_Live_Location.png)
 
 ---
 
